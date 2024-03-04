@@ -4,12 +4,12 @@
 Обучение линейной регрессии с использованием полинемиальных признаков
 
 Значения параметров:
-A_id: Unique identifier for each fruit
-Size: Size of the fruit
-Weight: Weight of the fruit
-Sweetness: Degree of sweetness of the fruit
-Crunchiness: Texture indicating the crunchiness of the fruit
-Juiciness: Level of juiciness of the fruit
-Ripeness: Stage of ripeness of the fruit
-Acidity: Acidity level of the fruit
-Quality: Overall quality of the fruit
+\n A_id: Unique identifier for each fruit
+\n Size: Size of the fruit
+\n Weight: Weight of the fruit
+\n Sweetness: Degree of sweetness of the fruit
+\n Crunchiness: Texture indicating the crunchiness of the fruit
+\n Juiciness: Level of juiciness of the fruit
+\n Ripeness: Stage of ripeness of the fruit
+\n Acidity: Acidity level of the fruit
+\n Quality: Overall quality of the fruit
